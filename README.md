@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-<!--
-**tokcide/tokcide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :zap: I love math, physics, programming, and books
+- 🌱 I’m addicted to learning and growing every day
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... a personal proect
