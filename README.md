@@ -16,5 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I am a good person
 -->
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tokcide&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&show_icons=true&hide=stars&line_height=24" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokcide&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&layout=compact&card_width=467" />
+</a>
+<!--
 [![Tokcide's GitHub stats](https://github-readme-stats.vercel.app/api?username=tokcide&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&show_icons=true&hide=stars&line_height=24)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokcide&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&layout=compact)]()
+-->
